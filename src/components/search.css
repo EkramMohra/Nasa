@@ -1,0 +1,6 @@
+.media{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% ;
+    margin: 10px;
+    grid-gap: 10px;
+}
